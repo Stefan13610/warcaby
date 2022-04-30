@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1465651208 source:e:\projekty 2016\warcaby\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	"warcaby.h"
+
+1465652783 e:\projekty 2016\warcaby\warcaby.h
+	<allegro.h>
+
